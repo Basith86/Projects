@@ -1,0 +1,42 @@
+td{
+  position : relative;
+  left : 532px;
+  background-color : orange;
+  height : 80px;
+  width :80px;
+  text-align : center;
+  font-size : 40px;
+}
+
+#det{
+  position : relative;
+  left: 520px;
+  margin : 20px;
+}
+
+button{
+  background-color : white;
+  padding-left : 50px;
+  padding-right : 50px;
+  padding-top : 15px;
+  padding-bottom : 15px;
+}
+
+body{
+  background-color : rgb(166, 255, 77);
+}
+
+#restart{
+  position : relative;
+  top : 20px;
+  left: 580px;
+  padding-left : 50px;
+  padding-right : 50px;
+  padding-top : 10px;
+  padding-bottom : 10px;
+}
+p{
+  position: relative;
+  font-size : 30px;
+  left : 580px;
+}
